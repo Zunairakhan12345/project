@@ -1,2 +1,2 @@
 //hello
-cout<<hello;
+cout<<"hello worldt";
